@@ -1,4 +1,4 @@
-package mahmoudroid.paymentplanner
+package mahmoudroid.paymentplanner.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
